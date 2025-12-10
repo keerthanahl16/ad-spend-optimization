@@ -51,6 +51,4 @@ License
 
 This project is licensed under the MIT License — see the LICENSE file for more details.
 
-Contact
-
 Created by Keerthana HL — feel free to reach out via GitHub Discussions or open an issue.
